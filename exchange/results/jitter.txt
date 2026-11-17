@@ -1,0 +1,10 @@
+spun 5.0 s (188163071 reads), time lost to gaps > 1us: 2.581%
+  gaps >1us        7897  (1579.4/s)
+  gaps >5us        6904  (1380.8/s)
+  gaps >10us       6711  (1342.2/s)
+  gaps >20us        861  (172.2/s)
+  gaps >50us        165  (33.0/s)
+  gaps >100us        61  (12.2/s)
+  gaps >1ms           3  (0.6/s)
+  gaps >10ms          0  (0.0/s)
+  gap size: p50 12146 ns, p99 80775 ns, max 3768303 ns
